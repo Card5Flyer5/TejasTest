@@ -5,6 +5,8 @@
  */
 package tejastest;
 
+//comment out package tejastest for this program to work.
+
 import java.util.Scanner;
 
 /**
